@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm William, known by my online name as festusrestus. I'm from Indonesia &#127470; and I have taken interest in learning about app programming. My interest leads me to use GitHub to share/document what I'm working with. I enjoy making basic useful program, even silly programs to make my brain grow. 🧠🥶😏<br><br>I'm invested into these basic starter languages currently:</p>
+<p align="left">I'm William, known by my online name as festusrestus. I'm from Indonesia and I have taken interest in learning about app programming. My interest leads me to use GitHub to share/document what I'm working with. I enjoy making basic useful program, even silly programs to make my brain grow. 🧠🥶😏<br><br>I'm invested into these basic starter languages currently:</p>
 
 ###
 
