@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">and more to come... lol<br>My repo stats is empty, but I plan on adding a lot and change it, trust! 🫡</p>
+<p align="left">and more to come... lol<br>My repo stats is empty, but I plan on adding a lot and fill it, trust! 🫡</p>
 
 ###
 
